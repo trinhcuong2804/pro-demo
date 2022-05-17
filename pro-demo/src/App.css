@@ -1,0 +1,134 @@
+.App {
+  text-align: center;
+}
+
+.form {
+  border: 1px solid rgb(2, 10, 12);
+  /* background-color: transparent; */
+  border: none;
+  border-radius: 10px;
+  max-height: 405px;
+}
+
+.form-label {
+  display: block;
+  text-align: left;
+}
+.App {
+  /* background-color: rgb(223, 225, 227); */
+  /* position: relative; */
+  /* background: linear-gradient(rgb(76, 189, 224), rgb(123, 223, 123)); */
+  
+}
+.main-product {
+  /* position: relative; */
+}
+.app-img {
+  width: 100%;
+  height: 100%;
+}
+.main {
+  position: relative;
+}
+.form-body {
+  width: 75%;
+  background-color: #59759c;
+  border: 2px solid white;margin: auto;
+}
+.product-name,
+.form-name {
+  color: white;
+  font-weight: 400;
+  width: 75%;
+  margin: auto;
+}
+.product-list {
+  /* background-color: white; */
+  border-radius: 10px;
+  
+}
+.product {
+  /* background-color: linear-gradient( to right, rgb(99, 53, 53), blue ); */
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  margin-top: 56px;
+
+}
+
+.table {
+  background-color: white;
+}
+.table-row {
+  background-color: #59759c;
+    color: white;
+}
+.header {
+  /* background: linear-gradient(rgb(199, 208, 210), rgb(217, 228, 217)); */
+ background: linear-gradient(to bottom, #abc0de 5%, white 95%);
+ color: black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  height: 64px;
+  
+}
+.header-img {
+  width: 40px;
+}
+.header-nav-link {
+  border-radius: 20px;
+  font-weight: 500;
+  color: black;
+}
+.header-nav-link:hover {
+  color: white!important;
+  background-color: #59759c;
+}
+.logo-img {
+  width: 50px;
+  
+}
+.img {
+  width: 30px;
+  
+}
+.total {
+  color: aliceblue;
+}
+/* modal  */
+.modal-content {
+  width: 70% !important;
+  margin: auto !important;
+  
+}
+.modal-c1 {
+  margin-right: 20px;
+}
+
+.ac-button {
+  line-height: 1;
+  font-size: 5px;
+}
+
+/* //pagination */
+.pagination {
+    color: #59759c;
+    
+  }
+.pagination li .page-link{
+  font-size: 10px;
+  color: #59759c;
+}
+/*   icon  */
+.icon-search {
+  line-height: 30px;
+  color: white;
+}
+.btn-search {
+  border: 1px solid white !important;
+
+}
